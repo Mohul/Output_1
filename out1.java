@@ -12,7 +12,7 @@ public class out1 {
         System.out.println("  |==========================================================================================================|  ");
         System.out.println("  |                                          :- TIAS DAS                               | " );
         System.out.println("  |                                          :- MOHUL CHAKRABORTY                               | " );
-        System.out.println("  |                                          :- KOUSITAKI GOPE                               | " );
+        System.out.println("  |                                          :- KOUSHITAKI GOPE                               | " );
         System.out.println("  |                                          :- DEVANG BOSE                               | " );
         System.out.println("  |                                          :- ANIRBAN DUTTA                               | " );
         System.out.println("  |                                          :- DISHA ROY                               | " );
